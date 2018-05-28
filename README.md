@@ -2,7 +2,7 @@
 获取每日NBA比赛比分的Chrome插件
 
 ### 前言
-若是想直接使用的可直接[下载]()，然后查看以下“安装使用”
+若是想直接使用的可直接[下载](https://raw.githubusercontent.com/xiolovelife/getNBA/master/runnable/getNBA.crx)，然后查看以下“安装使用”
 
 ### 编译打包
 打开谷歌浏览器输入chrome://extensions/地址，点击"打包扩展程序"，选择项目的文件夹路径打包<br>
