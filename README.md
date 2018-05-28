@@ -14,5 +14,6 @@
 安装完成后，在浏览器Url输入框右侧会出现NBA的Logo，点击即可获取比赛比分
 
 ### 注意
-该插件是基于Chrome浏览器开发，由于其所使用的是Webkit内核，理论上支持所有使用Webkit内核的浏览器，比如360浏览器、猎豹浏览器等<br>
-需要帮助可查看[Chrome extensions 开发文档](https://feizhaojun.com/chrome-developer/extensions/)
+* 该插件是基于Chrome浏览器开发，由于其所使用的是Webkit内核，理论上支持所有使用Webkit内核的浏览器，比如360浏览器、猎豹浏览器等，
+需要帮助可查看[Chrome extensions 开发文档](https://feizhaojun.com/chrome-developer/extensions/)<br>
+* 此为前端项目，若想查看后端服务请点击[查看](https://github.com/xiolovelife/nba)
