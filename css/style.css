@@ -1,0 +1,50 @@
+
+p{
+	margin: 0px;
+}
+
+h1{
+	margin: 0px;
+	margin-top:20px;
+}
+
+.body_background{
+	min-height: 130px;
+	max-height:650px;
+	min-width: 310px;
+    overflow-x: hidden;
+}
+
+.gameLine{
+	margin:10px auto;	
+	height:135px;
+}
+
+.clear{
+	clear:both;
+}
+
+.block{
+	float:left;
+	text-align: center;
+	width: 100px;
+}
+
+.imgDiv > img{
+	width: 100%;
+}
+
+.centerBlock{
+	float:left;
+	text-align: center;
+	margin:auto 8px;
+}
+
+.tips{
+	margin: 6px auto;
+	color: #7f7f7f;
+}
+
+.win{
+	color: #e11647;
+}
